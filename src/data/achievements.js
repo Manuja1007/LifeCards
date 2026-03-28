@@ -1,0 +1,58 @@
+export const achievementsList = [
+  {
+    id: "first_story",
+    title: "Storyteller",
+    description: "Generated your first AI story",
+    icon: "📖",
+    gradient: ["#fb923c", "#fbbf24"],
+  },
+  {
+    id: "first_mood",
+    title: "Self-Aware",
+    description: "Logged your first mood",
+    icon: "🎭",
+    gradient: ["#06b6d4", "#3b82f6"],
+  },
+  {
+    id: "first_reflection",
+    title: "Deep Thinker",
+    description: "Wrote your first reflection",
+    icon: "🪞",
+    gradient: ["#a78bfa", "#ec4899"],
+  },
+  {
+    id: "first_focus",
+    title: "Focused",
+    description: "Completed a focus session",
+    icon: "🎯",
+    gradient: ["#10b981", "#22c55e"],
+  },
+  {
+    id: "five_focus",
+    title: "Flow State",
+    description: "Completed 5 focus sessions",
+    icon: "🔥",
+    gradient: ["#ef4444", "#fb923c"],
+  },
+  {
+    id: "seven_day_mood",
+    title: "Consistent",
+    description: "Logged mood for 7 days",
+    icon: "📅",
+    gradient: ["#6366f1", "#a78bfa"],
+  },
+  {
+    id: "timetable_master",
+    title: "Planner",
+    description: "Created your first timetable",
+    icon: "🗓️",
+    gradient: ["#14b8a6", "#06b6d4"],
+  },
+  {
+    id: "checkin_complete",
+    title: "Accountable",
+    description: "Completed a daily check-in",
+    icon: "✅",
+    gradient: ["#84cc16", "#10b981"],
+  },
+];

@@ -1,0 +1,73 @@
+export const videoLibrary = [
+  {
+    id: "v1",
+    title: "How to Stop Wasting Your Life",
+    channel: "Ali Abdaal",
+    category: "productivity",
+    videoId: "arj7oStGLkU",
+    thumbnail: "https://img.youtube.com/vi/arj7oStGLkU/mqdefault.jpg",
+  },
+  {
+    id: "v2",
+    title: "The Science of Motivation",
+    channel: "Veritasium",
+    category: "mindset",
+    videoId: "u6XAPnuFjJc",
+    thumbnail: "https://img.youtube.com/vi/u6XAPnuFjJc/mqdefault.jpg",
+  },
+  {
+    id: "v3",
+    title: "How I Study 12 Hours a Day",
+    channel: "James Scholz",
+    category: "study",
+    videoId: "YjRPrhNoLI8",
+    thumbnail: "https://img.youtube.com/vi/YjRPrhNoLI8/mqdefault.jpg",
+  },
+  {
+    id: "v4",
+    title: "Atomic Habits Summary",
+    channel: "Ali Abdaal",
+    category: "productivity",
+    videoId: "PZ7lDrwYdZc",
+    thumbnail: "https://img.youtube.com/vi/PZ7lDrwYdZc/mqdefault.jpg",
+  },
+  {
+    id: "v5",
+    title: "You Are Not Lazy",
+    channel: "Struthless",
+    category: "mindset",
+    videoId: "A2sS00egAzg",
+    thumbnail: "https://img.youtube.com/vi/A2sS00egAzg/mqdefault.jpg",
+  },
+  {
+    id: "v6",
+    title: "How to Focus Like Einstein",
+    channel: "Newsthink",
+    category: "study",
+    videoId: "GJMm2MHZ-Fs",
+    thumbnail: "https://img.youtube.com/vi/GJMm2MHZ-Fs/mqdefault.jpg",
+  },
+  {
+    id: "v7",
+    title: "The Power of Discipline",
+    channel: "Motivation2Study",
+    category: "mindset",
+    videoId: "VGcxhri__8g",
+    thumbnail: "https://img.youtube.com/vi/VGcxhri__8g/mqdefault.jpg",
+  },
+  {
+    id: "v8",
+    title: "How I Organize My Life",
+    channel: "Matt D'Avella",
+    category: "productivity",
+    videoId: "8n2vL2I__WY",
+    thumbnail: "https://img.youtube.com/vi/8n2vL2I__WY/mqdefault.jpg",
+  },
+];
+
+export const categories = [
+  { id: "all", label: "All" },
+  { id: "productivity", label: "Productivity" },
+  { id: "mindset", label: "Mindset" },
+  { id: "study", label: "Study" },
+];
